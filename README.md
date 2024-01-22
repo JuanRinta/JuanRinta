@@ -11,7 +11,7 @@
   <img align="center" alt="Juan Rinta's Logo" width="400px" src="https://i.imgur.com/YS3w9Vu.jpg" />
 </div>
 
-<a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/">
+<a href="https://www.linkedin.com/in/juancastillor/">
   <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/j.sanskarr/">
