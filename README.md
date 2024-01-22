@@ -25,7 +25,9 @@
 
 <br/>
 <br/>
+<div align="center">
   <img align="center" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+</div>
 </div>
 
 **About Me!**
@@ -41,7 +43,7 @@
 
 
 **Languages and Tools:**  
-<div>
+<div align="center">
 <p>JavaScript, Python, Java, MySQL, OpenRPA, UiPath, PHP</p>
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanrinta&count_private=true&theme=radical" alt="SanskarJaiswal" />
