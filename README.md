@@ -7,7 +7,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile!!&center=true&width=360&height=30">
  <br><br>
 </p>
-<div>
+<div align="center">
   <img align="center" alt="Juan Rinta's Logo" width="400px" src="https://i.imgur.com/YS3w9Vu.jpg" />
 </div>
 
