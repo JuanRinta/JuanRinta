@@ -36,7 +36,7 @@
 - 👨🏽‍💻 I’m currently a ISE Undergrad student at RNS Institute of Technology, Bangalore <br>
 - 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. <br>
 - 💬 Ask me about anything, I love to answer!<br>
-- 📫 Email me at [phoenix2810@protonmail.com](mailto:phoenix2810@protonmail.com).<br>
+- 📫 Email me at juandavidcastillorinta@gmail.com<br>
 </p>
 
 
@@ -50,6 +50,6 @@
 <code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
 <code><img height="20" src="https://icons8.com/icon/oyBImhglcbk7/rpa"></code> OpenRPA
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanskarjaiswal2001&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sanskar's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarjaiswal2001&count_private=true&theme=radical" alt="SanskarJaiswal" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarjaiswal2001&count_private=true&theme=radical" alt="SanskarJaiswal" />
+<img src="https://github-readme-stats.vercel.app/api?username=juanrinta&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sanskar's GitHub Stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanrinta&count_private=true&theme=radical" alt="SanskarJaiswal" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanrinta&count_private=true&theme=radical" alt="SanskarJaiswal" />
