@@ -1,5 +1,6 @@
 <p align="left">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Juan+Rinta!!&center=true&width=360&height=30">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile!!&center=true&width=360&height=30">
 </p>
 
 <img align="center" alt="Sanskar's LinkedIn" width="400px" src="https://ibb.co/bz1tTn2" />
