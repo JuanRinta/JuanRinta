@@ -17,7 +17,7 @@
 <hr>
 
 <a href="https://www.linkedin.com/in/juancastillor/">
-  <img align="left" alt="Juan Rinta's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+  <img align="center" alt="Juan Rinta's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
   <p>LinkedIn</p>
 </a>
 
@@ -31,9 +31,9 @@
 **About Me!**
 
 <p align="left">
-- 👨🏽‍💻 I’m currently a ISE Undergrad student at RNS Institute of Technology, Bangalore <br>
-- 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. <br>
-- 💬 Ask me about anything, I love to answer!<br>
+- 🎓 Actualmente, me encuentro inmerso en mi formación como estudiante de Programación de Software en el Servicio Nacional de Aprendizaje (SENA), desempeñando mis prácticas profesionales en la empresa Belltech.<br>
+- 🚀 Mi enfoque se centra en participar activamente en proyectos innovadores que me permitan aplicar y ampliar mis conocimientos.<br>
+- 🤖 Actualmente lidero un proyecto de automatización de procesos, donde asumo la responsabilidad de la recopilación, diseño y desarrollo, contribuyendo así a la eficiencia operativa y al logro de objetivos estratégicos. <br>
 - 📫 Email me at juandavidcastillorinta@gmail.com<br>
 </p>
 
