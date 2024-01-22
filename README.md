@@ -44,12 +44,7 @@
 
 **Languages and Tools:**  
 
+<p>JavaScript, Python, Java, MySQL, OpenRPA, UiPath, PHP</p>
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
-<code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C++
-<code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
-<code><img height="20" src="https://icons8.com/icon/oyBImhglcbk7/rpa"></code> OpenRPA
-
-<img src="https://github-readme-stats.vercel.app/api?username=juanrinta&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sanskar's GitHub Stats">
+<br><br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanrinta&count_private=true&theme=radical" alt="SanskarJaiswal" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanrinta&count_private=true&theme=radical" alt="SanskarJaiswal" />
