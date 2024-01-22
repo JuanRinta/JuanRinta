@@ -31,7 +31,7 @@
 
 **About Me!**
 
-<p align="center">
+<p align="left">
 - 👨🏽‍💻 I’m currently a ISE Undergrad student at RNS Institute of Technology, Bangalore <br>
 - 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. <br>
 - 💬 Ask me about anything, I love to answer!<br>
