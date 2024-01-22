@@ -3,11 +3,12 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Juan+Rinta!!&center=true&width=360&height=30"><br>
 </p>
 <p align="center">
- <br><br>
+ <br>
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile!!&center=true&width=360&height=30">
+ <br><br>
 </p>
 
-<img align="center" alt="Sanskar's LinkedIn" width="400px" src="https://ibb.co/bz1tTn2" />
+<img align="center" alt="Juan Rinta's Logo" width="400px" src="https://i.imgur.com/YS3w9Vu.jpg" />
 
 <a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/">
   <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
