@@ -26,7 +26,7 @@
 
 <br/>
 <br/>
-<div>
+<div align="center">
   <img align="center" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 </div>
 
