@@ -14,6 +14,8 @@
 <br/>
 <br/>
 
+<hr>
+
 <a href="https://www.linkedin.com/in/juancastillor/">
   <img align="left" alt="Juan Rinta's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
   <p>LinkedIn</p>
