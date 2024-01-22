@@ -21,6 +21,8 @@
   <p>LinkedIn</p>
 </a>
 
+<hr>
+
 <br/>
 <br/>
   <img align="center" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
