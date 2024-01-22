@@ -1,8 +1,8 @@
-<p align="left">
+<p align="center">
  <br><br>
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Juan+Rinta!!&center=true&width=360&height=30"><br>
 </p>
-<p align="left">
+<p align="center">
  <br><br>
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile!!&center=true&width=360&height=30">
 </p>
