@@ -31,9 +31,9 @@
 **About Me!**
 
 <p align="left">
-- 🎓 Actualmente, me encuentro inmerso en mi formación como estudiante de Programación de Software en el Servicio Nacional de Aprendizaje (SENA), desempeñando mis prácticas profesionales en la empresa Belltech.<br>
-- 🚀 Mi enfoque se centra en participar activamente en proyectos innovadores que me permitan aplicar y ampliar mis conocimientos.<br>
-- 🤖 Actualmente lidero un proyecto de automatización de procesos, donde asumo la responsabilidad de la recopilación, diseño y desarrollo, contribuyendo así a la eficiencia operativa y al logro de objetivos estratégicos. <br>
+- 🎓 Currently, I am immersed in my training as a Software Programming student at the National Learning Service (SENA), carrying out my professional internship at Belltech.<br>
+- 🚀 My focus revolves around actively participating in innovative projects that allow me to apply and expand my knowledge.<br>
+- 🤖 I am currently leading a process automation project, where I take on the responsibility of gathering, designing, and developing, thus contributing to operational efficiency and the achievement of strategic objectives. <br>
 - 📫 Email me at juandavidcastillorinta@gmail.com<br>
 </p>
 
