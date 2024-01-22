@@ -21,16 +21,15 @@
   <img align="left" alt="Sanskar's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
 </a>
 
-
-
-a
-<br />
-<br />
+<br/>
+<br/>
+<br/>
+<br/>
 
 
  
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+  <img align="left" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 **About Me!**
 
