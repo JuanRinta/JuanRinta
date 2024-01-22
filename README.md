@@ -17,16 +17,9 @@
 <a href="https://www.linkedin.com/in/juancastillor/">
   <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
-<a href="https://www.instagram.com/j.sanskarr/">
-  <img align="left" alt="Sanskar's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
-</a>
-<a href="https://twitter.com/TitanWithKagune">
-  <img align="left" alt="Sanskar's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
-</a>
 
 <br/>
 <br/>
-<div align="center">
   <img align="center" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 </div>
 
@@ -43,8 +36,8 @@
 
 
 **Languages and Tools:**  
-
+<div>
 <p>JavaScript, Python, Java, MySQL, OpenRPA, UiPath, PHP</p>
-
-<br><br>
+<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanrinta&count_private=true&theme=radical" alt="SanskarJaiswal" />
+</div>
