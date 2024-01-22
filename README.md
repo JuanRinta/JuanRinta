@@ -1,22 +1,46 @@
-<h1>Lorenzo Sebastian la verga peluda</h1>
-###<img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I'm [MikeOwino!](https://mikeowino.com) 👋
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MikeOwino/&title=Profile%20Views)
-<a href="https://codesandbox.io/u/mikeeowino">
-  <img align="left" alt="Mike Owino | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<h2 title="hehehe"> Hey 👋, I'm Sanskar!</h2>
+
+<a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/">
+  <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
-<a href="https://twitter.com/mikeeowino">
-  <img align="left" alt="Mike Owino | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://www.instagram.com/j.sanskarr/">
+  <img align="left" alt="Sanskar's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
 </a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Mike's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+<a href="https://twitter.com/TitanWithKagune">
+  <img align="left" alt="Sanskar's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
 </a>
 
-Hi, I'm Mike Owino, a passionate self-taught frontEnd web developer.
 
-- 🔭 I’m currently working on my project [GadgetsMag](https://github.com/gadgetsmag.github.io) <img align="right" alt="coding from home" src= "https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height = 200 width = 300/>
-- 🌱 I’m currently learning Javascript, CSS,  Python & Jekyll
-- 👯 I’m looking to collaborate on [GadgetsMag](https://github.com/gadgetsmag.github.io)
-- 💬 Ask me about anything [here](https://github.com/MikeOwino/MikeOwino/issues)
-<br>
-<br>
-<br>
+
+
+<br />
+<br />
+
+
+ 
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+
+**About Me!**
+
+- 👨🏽‍💻 I’m currently a ISE Undergrad student at RNS Institute of Technology, Bangalore
+- 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. 
+- 💬 Ask me about anything, I love to answer!
+- 📫 Email me at [phoenix2810@protonmail.com](mailto:phoenix2810@protonmail.com).
+
+
+
+**Languages and Tools:**  
+
+
+<code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
+<code><img height="20" src="https://img.icons8.com/nolan/96/ethereum.png"></code> Solidity
+
+<code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C++
+<code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
+
+<code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
+
+<img src="https://github-readme-stats.vercel.app/api?username=sanskarjaiswal2001&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sanskar's GitHub Stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarjaiswal2001&count_private=true&theme=radical" alt="SanskarJaiswal" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarjaiswal2001&count_private=true&theme=radical" alt="SanskarJaiswal" />
