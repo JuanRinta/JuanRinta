@@ -15,7 +15,8 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/juancastillor/">
-  <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+  <img align="left" alt="Juan Rinta's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+  LinkedIn
 </a>
 
 <br/>
