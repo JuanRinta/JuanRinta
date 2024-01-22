@@ -32,11 +32,11 @@
 **About Me!**
 
 <p align="center">
-- 👨🏽‍💻 I’m currently a ISE Undergrad student at RNS Institute of Technology, Bangalore
-- 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. 
-- 💬 Ask me about anything, I love to answer!
+- 👨🏽‍💻 I’m currently a ISE Undergrad student at RNS Institute of Technology, Bangalore <br>
+- 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. <br>
+- 💬 Ask me about anything, I love to answer!<br>
+- 📫 Email me at [phoenix2810@protonmail.com](mailto:phoenix2810@protonmail.com).<br>
 </p>
-- 📫 Email me at [phoenix2810@protonmail.com](mailto:phoenix2810@protonmail.com).
 
 
 
