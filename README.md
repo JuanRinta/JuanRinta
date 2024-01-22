@@ -13,9 +13,6 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 
 <a href="https://www.linkedin.com/in/juancastillor/">
   <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
@@ -29,11 +26,6 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
-
-
- 
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
