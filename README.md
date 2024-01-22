@@ -1,4 +1,6 @@
-<h2 title="hehehe"> Hey 👋, I'm Juan Rinta!</h2>
+<p align="left">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Juan+Rinta!!&center=true&width=360&height=30">
+</p>
 
 <img align="center" alt="Sanskar's LinkedIn" width="400px" src="https://ibb.co/bz1tTn2" />
 
