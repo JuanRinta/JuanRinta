@@ -1,6 +1,6 @@
 <h2 title="hehehe"> Hey 👋, I'm Juan Rinta!</h2>
 
-<img align="center" alt="Sanskar's LinkedIn" width="auto" src="https://ibb.co/bz1tTn2" />
+<img align="center" alt="Sanskar's LinkedIn" width="400px" src="https://ibb.co/bz1tTn2" />
 
 <a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/">
   <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
