@@ -42,8 +42,6 @@
 </p>
 
 
-
-
 **Languages and Tools:**  
 <div align="center">
 <p>JavaScript, Python, Java, MySQL, OpenRPA, UiPath, PHP</p>
