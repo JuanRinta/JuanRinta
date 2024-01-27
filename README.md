@@ -8,7 +8,7 @@
  <br><br>
 </p>
 <div align="center">
-  <img align="center" alt="Juan Rinta's Logo" width="400px" src="https://i.imgur.com/YS3w9Vu.jpg" />
+  [![Image of https://github.com/JuanRinta/my-view-counter](https://github.com/JuanRinta/my-view-counter/blob/master/svg/profile/badge.svg)](https://github.com/JuanRinta/my-view-counter)
 </div>
 
 <br/>
