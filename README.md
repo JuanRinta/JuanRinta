@@ -7,6 +7,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile!!&center=true&width=360&height=30">
  <br><br>
 </p>
+[![Image of https://github.com/JuanRinta/my-view-counter](https://github.com/JuanRinta/my-view-counter/blob/master/svg/profile/badge.svg)](https://github.com/JuanRinta/my-view-counter)
 <div align="center">
   [![Image of https://github.com/JuanRinta/my-view-counter](https://github.com/JuanRinta/my-view-counter/blob/master/svg/profile/badge.svg)](https://github.com/JuanRinta/my-view-counter)
 </div>
